@@ -1,0 +1,71 @@
+ {
+   "tes":[
+    {"page":{
+        "id": 1,
+        "qst":"1. What does HTML stand for?",
+        "correct": "Hyper Text Markup Language",
+        "options":[
+            {"a":"Hyperlinks and Text Markup Language"},
+            {"b":"Home Tool Markup Language"},
+            {"c":"Hyper Text Markup Language"},
+            {"d":"Hyper Text Markup Learning"}
+        ]
+      }
+    },
+    {"page":{
+        "id": 2,
+        "qst":"2. Who is making the Web standards?",
+        "correct": "The World Wide Web Consortium",
+        "options":[
+            {"a":"The World Wide Web Consortium"},
+            {"b":"Google"},
+            {"c":"Mozilla"},
+            {"d":"Microsoft"}
+        ]
+      }
+    },
+    {"page":{
+      "id": 3,
+        "qst":"3. Choose the correct HTML element for the largest heading:",
+        "correct": "&lth6>",
+        "options":[
+            {"a":"&lthead&gt"},
+            {"b":"&lth1&gt"},
+            {"c":"&ltheading&gt"},
+            {"d":"&lth6&gt"}
+        ]
+      }
+    },
+    {"page":{
+         "id": 4,
+         "qst":"4. What is the correct HTML for adding a background color?",
+         "correct": "&ltbody style='background-color:yellow;'>",
+         "options":[
+            {"a":"&ltbody bg='yellow'&gt"},
+            {"b":"&ltbackground&gtyellow&lt/background&gt"},
+            {"c":"&ltbody style='background-color:yellow;'&gt"},
+            {"d":"&ltbackground&gtyellow&lt/background&gt"}
+         ]
+      }
+    },
+     {"page":{
+       "id": 5,
+       "qst":"5. What is the correct HTML for adding a background color?",
+       "correct": "&ltbody style='background-color:red;'>",
+       "options":[
+         {"a":"&ltbody bg='red'&gt"},
+         {"b":"&ltbackground&gtred&lt/background&gt"},
+         {"c":"&ltbody style='background-color:red;'&gt"},
+         {"d":"&ltbackground&gtred&lt/background&gt"}
+       ]
+     }
+     }
+  ]
+ }
+
+
+
+
+
+
+
